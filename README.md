@@ -4,23 +4,23 @@
 
 🌱 I'm currently learning **DSA and MERN stack**
 
-📫 How to reach me: aryan.zxp@gmail.com
+📫 How to reach me: aryan.ixp@gmail.com
 
 ⚡ Fun fact: I also make and produce music
 
 ### Connect with me:
 
 <div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/aryanbhardwaj19"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://aryanbhardwaj19.github.io/portfolio/"target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF4B2B?style=for-the-badge&logo=safari&logoColor=white" alt="portfolio"/>
   </a>
-  <a href="YOUR_LEETCODE_LINK" target="_blank">
+  <a href="https://leetcode.com/u/aryanbh19/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
-  <a href="YOUR_CODEFORCES_LINK" target="_blank">
+  <a href="https://codeforces.com/profile/aryanbh_19" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/>
   </a>
 </div>
