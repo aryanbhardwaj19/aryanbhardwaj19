@@ -55,18 +55,27 @@
 </div>
 
 ---
+
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  </picture>
+  <br/>
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=transparent&hide_border=true" />
+  </picture>
+  <br/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&theme=dark&hide_border=true&layout=compact" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&theme=default&hide_border=true&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&theme=transparent&hide_border=true&layout=compact" />
+  </picture>
 </div>
 
 ---
