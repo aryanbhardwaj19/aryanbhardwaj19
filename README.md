@@ -59,11 +59,11 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aryanbhardwaj19&count_private=true&theme=radical&border_radius=10" alt="streak stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=aryanbhardwaj19)](https://git.io/streak-stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=aryanbhardwaj19&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aryanbhardwaj19&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
 </div>
 
 ---
