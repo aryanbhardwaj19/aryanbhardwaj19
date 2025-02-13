@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=aryanbhardwaj19)](https://git.io/streak-stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
