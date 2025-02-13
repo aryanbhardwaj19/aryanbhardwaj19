@@ -59,15 +59,13 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=transparent&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&theme=transparent&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=aryanbhardwaj19&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
