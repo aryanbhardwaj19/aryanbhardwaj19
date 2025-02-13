@@ -17,10 +17,10 @@
 ### 🤝 Connect with me:
 
 <div align="left">
-  <a href="https://linkedin.com/in/aryanbhardwaj19"target="_blank">
+  <a href="https://linkedin.com/in/aryanbhardwaj19" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://aryanbhardwaj19.github.io/portfolio/"target="_blank">
+  <a href="https://aryanbhardwaj19.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF4B2B?style=for-the-badge&logo=safari&logoColor=white" alt="portfolio"/>
   </a>
   <a href="https://leetcode.com/u/aryanbh19/" target="_blank">
@@ -65,17 +65,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
   </picture>
   <br/>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&theme=transparent&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
   <br/>
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=transparent&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -83,7 +75,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanbhardwaj19&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanbhardwaj19&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
