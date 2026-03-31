@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/aryanbhardwaj19" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://aryanbhardwaj19.github.io/portfolio/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF4B2B?style=for-the-badge&logo=safari&logoColor=white" alt="portfolio"/>
   </a>
   <a href="https://leetcode.com/u/aryanbh19/" target="_blank">
