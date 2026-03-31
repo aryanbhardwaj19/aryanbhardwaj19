@@ -26,7 +26,7 @@
   <a href="https://leetcode.com/u/aryanbh19/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
-  <a href="https://codeforces.com/profile/aryanbh_19" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/>
   </a>
 </div>
