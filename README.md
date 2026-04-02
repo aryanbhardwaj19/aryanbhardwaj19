@@ -63,16 +63,9 @@
   <br/><br/>
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=aryanbhardwaj19&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+
 
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanbhardwaj19&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
