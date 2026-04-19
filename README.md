@@ -101,21 +101,27 @@ and I regularly practice contest-style problem solving for speed and pattern rec
 
 ### FEATURED PROJECTS
 
-<a href="https://github.com/aryanbhardwaj19/financial_risk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=financial_risk&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FinRisk repo card" />
-</a>
-<a href="https://github.com/aryanbhardwaj19/task-flow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=task-flow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TaskFlow repo card" />
-</a>
-<a href="https://github.com/aryanbhardwaj19/FoodiesForFoody">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=FoodiesForFoody&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FOODIES-FOODY repo card" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/aryanbhardwaj19/financial_risk"><strong>FinRisk</strong></a><br/>
+      AI-driven risk analysis with a multi-agent RAG workflow.<br/>
+      <sub>Python • LangChain • LangGraph • FAISS • Streamlit</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/aryanbhardwaj19/task-flow"><strong>TaskFlow</strong></a><br/>
+      Full-stack task manager with auth and drag-and-drop flows.<br/>
+      <sub>React • Node.js • Express • MongoDB • JWT</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/aryanbhardwaj19/FoodiesForFoody"><strong>FOODIES-FOODY</strong></a><br/>
+      Commission-free food delivery system with scalable backend services.<br/>
+      <sub>Spring Boot • React • MongoDB • AWS S3</sub>
+    </td>
+  </tr>
+</table>
 
-<p>
-FOODIES-FOODY: Commission-free food delivery platform with Spring Boot, React, MongoDB, and AWS S3.  
-TaskFlow: Collaborative task manager with JWT auth, drag-and-drop workflows, and REST APIs.  
-FinRisk: Multi-agent RAG system for financial risk assessment using LangChain, LangGraph, and FAISS.
-</p>
+<p><sub>Each project is production-minded: low-latency APIs, clean architecture, and real-world deployment workflows.</sub></p>
 
 </div>
 
