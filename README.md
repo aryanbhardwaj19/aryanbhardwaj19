@@ -2,16 +2,17 @@
 
 # ARYAN BHARDWAJ
 
-`EEE undergrad @ RIT Bangalore | Full-Stack Dev | AI/ML Enthusiast`
+`EEE undergrad @ RIT Bangalore | Full-Stack Dev | DSA & CP Enthusiast`
 
 <p><i>building things at the edge of software and intelligence</i></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=700&color=00F5D4&center=true&vCenter=true&width=650&lines=Samsung+Research+Intern;Full-Stack+Builder;AI%2FML+Problem+Solver" alt="Typing role banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=700&color=00F5D4&center=true&vCenter=true&width=650&lines=Samsung+Research+Intern;Full-Stack+Builder;DSA+Enthusiast;Competitive+Problem+Solver" alt="Typing role banner" />
 
 <p>
   <a href="https://linkedin.com/in/aryanbhardwaj19"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://github.com/aryanbhardwaj19"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/aryanbh19/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/aryanbh_19"><img src="https://img.shields.io/badge/Codeforces-0A0A0A?style=flat-square&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" /></a>
   <a href="https://takeuforward.org/plus/"><img src="https://img.shields.io/badge/TUF+-0A0A0A?style=flat-square&logo=bookstack&logoColor=22D3EE" alt="TUF+" /></a>
 </p>
 
@@ -25,6 +26,23 @@
 
 `Samsung Research Intern` - Emotion-Aware Wake Word Recognition  
 CNN-based wake word and emotion detection, MFCC/GeMAPS acoustic features, low-latency real-time inference pipeline.
+
+</div>
+
+---
+
+<div align="center">
+
+### DSA // COMPETITIVE PROGRAMMING
+
+<img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode solved" />
+<img src="https://img.shields.io/badge/LeetCode-350%2B%20DSA%20Problems-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="DSA problems" />
+<img src="https://img.shields.io/badge/LeetCode%20Weekly%20482-Rank%203936%2F30706-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode contest rank" />
+
+<p>
+I enjoy solving algorithmic problems around graphs, DP, greedy, and data structures,
+and I regularly practice contest-style problem solving for speed and pattern recognition.
+</p>
 
 </div>
 
@@ -83,20 +101,20 @@ CNN-based wake word and emotion detection, MFCC/GeMAPS acoustic features, low-la
 
 ### FEATURED PROJECTS
 
-<a href="https://github.com/aryanbhardwaj19/FinRisk">
+<a href="https://github.com/aryanbhardwaj19/financial_risk">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=FinRisk&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FinRisk repo card" />
 </a>
-<a href="https://github.com/aryanbhardwaj19/TaskFlow">
+<a href="https://github.com/aryanbhardwaj19/task-flow">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=TaskFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TaskFlow repo card" />
 </a>
-<a href="https://github.com/aryanbhardwaj19/FOODIES-FOODY">
+<a href="https://github.com/aryanbhardwaj19/FoodiesForFoody">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=FOODIES-FOODY&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FOODIES-FOODY repo card" />
 </a>
 
 <p>
-FOODIES-FOODY: commission-free food delivery platform with Spring Boot, React, MongoDB, and AWS S3.  
-TaskFlow: collaborative task manager with JWT auth, drag-and-drop workflows, and REST APIs.  
-FinRisk: multi-agent RAG system for financial risk assessment using LangChain, LangGraph, and FAISS.
+FOODIES-FOODY: Commission-free food delivery platform with Spring Boot, React, MongoDB, and AWS S3.  
+TaskFlow: Collaborative task manager with JWT auth, drag-and-drop workflows, and REST APIs.  
+FinRisk: Multi-agent RAG system for financial risk assessment using LangChain, LangGraph, and FAISS.
 </p>
 
 </div>
@@ -108,9 +126,10 @@ FinRisk: multi-agent RAG system for financial risk assessment using LangChain, L
 ### ACHIEVEMENTS
 
 <p>
-  450+ LeetCode problems solved  
-  Top 25 at wHACKiest 2024  
-  Top 16 at 22 Yards of Code
+  450+ problems solved, including 350+ DSA-focused questions on LeetCode  
+  Ranked 3936/30706 in LeetCode Weekly Contest 482  
+  Top 25/3000 at wHACKiest 2024, CodeRIT Hackathon  
+  Top 16/200 at 22 Yards of Code, CodeRIT Event
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=aryanbhardwaj19&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=12" alt="GitHub trophies" />
