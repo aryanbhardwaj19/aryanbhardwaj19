@@ -1,188 +1,130 @@
-<<<<<<< HEAD
-# Hi, I'm Aryan Bhardwaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F87F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+Builder+%7C+DSA+Enthusiast;Building+scalable+apps+with+clean+user+experiences;Exploring+RAG%2C+LLMs%2C+and+real-time+systems" alt="Typing SVG" />
-</div>
-=======
-# Hi There! I am Aryan Bhardwaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F87F7&center=true&vCenter=true&width=435&lines=Undergrad+exploring+CS+domains!;Full+Stack+Developer;DSA+Enthusiast" alt="Typing SVG" />
-</div>
+# ARYAN BHARDWAJ
 
-## About Me 🚀
->>>>>>> 2fc86c54cd4ec16ee40bd473533dce5820d9e21d
+`EEE undergrad @ RIT Bangalore | Full-Stack Dev | AI/ML Enthusiast`
 
-<div align="center">
-  <a href="mailto:aryan.ixp@gmail.com"><img src="https://img.shields.io/badge/Email-aryan.ixp%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://linkedin.com/in/aryanbhardwaj19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Bhardwaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://aryanbhardwaj19.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4B2B?style=for-the-badge&logo=safari&logoColor=white" alt="portfolio" /></a>
+<p><i>building things at the edge of software and intelligence</i></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=700&color=00F5D4&center=true&vCenter=true&width=650&lines=Samsung+Research+Intern;Full-Stack+Builder;AI%2FML+Problem+Solver" alt="Typing role banner" />
+
+<p>
+  <a href="https://linkedin.com/in/aryanbhardwaj19"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://github.com/aryanbhardwaj19"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/aryanbh19/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="https://takeuforward.org/plus/"><img src="https://img.shields.io/badge/TUF+-0A0A0A?style=flat-square&logo=bookstack&logoColor=22D3EE" alt="TUF+" /></a>
+</p>
+
 </div>
 
 ---
 
-<<<<<<< HEAD
-## About Me
-
-- Electrical and Electronics Engineering undergrad at **Ramaiah Institute of Technology**
-- Passionate about **Full-Stack Development, AI Applications, and Problem Solving**
-- Built projects across **MERN**, **RAG pipelines**, and **real-time systems**
-- I also compose and produce music
-
----
-
-## Featured Projects
-
-### TaskFlow
-Full-stack task management platform with authentication, role-based access, drag-and-drop workflows, and collaborative team features.
-
-**Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, TanStack Query, Vite, Zod
-
-### FinRisk
-Multi-agent RAG system for financial document intelligence and credit risk insights with explainable Q/A outputs.
-
-**Stack:** Python, LangChain, LangGraph, FAISS, Streamlit, Sentence Transformers
-
----
-
-## Technical Skills
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### Frameworks and Libraries
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Developer Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### AI and ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Neural_Networks-8E44AD?style=flat)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-### Platforms and Services
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-
----
-
-## Achievements
-
-- Solved **450+ DSA** problems, including **350+ on LeetCode**
-- Ranked **3936 / 30706** in **LeetCode Weekly 482**
-- **Top 25 / 300** - wHACKiest 2024, CodeRIT Hackathon
-- **Top 16 / 200** - 22 Yards of Code, CodeRIT
-
----
-
-## Coding Profiles
-
-<div align="left">
-=======
-⚡ Fun fact: I am also a Cricket Enthusiast
-
----
-
-### 🤝 Connect with me:
-
-<div align="left">
-  <a href="https://linkedin.com/in/aryanbhardwaj19" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://portfolio-aryan-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF4B2B?style=for-the-badge&logo=safari&logoColor=white" alt="portfolio"/>
-  </a>
->>>>>>> 2fc86c54cd4ec16ee40bd473533dce5820d9e21d
-  <a href="https://leetcode.com/u/aryanbh19/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/>
-  </a>
-</div>
-
----
-<<<<<<< HEAD
-
-## GitHub Analytics
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+### CURRENT FOCUS
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanbhardwaj19&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-=======
+`Samsung Research Intern` - Emotion-Aware Wake Word Recognition  
+CNN-based wake word and emotion detection, MFCC/GeMAPS acoustic features, low-latency real-time inference pipeline.
 
-### 🛠️ Languages and Tools:
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
->>>>>>> 2fc86c54cd4ec16ee40bd473533dce5820d9e21d
 </div>
 
 ---
 
-<<<<<<< HEAD
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanbhardwaj19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-=======
-### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aryanbhardwaj19&count_private=true&theme=radical&border_radius=10" alt="streak stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=aryanbhardwaj19&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><br/>
+### STACK
 
+**Languages**  
+<img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=336791" alt="SQL" />
+
+**Frontend**  
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+
+**Backend**  
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+<img src="https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+
+**AI**  
+<img src="https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=2A5ADA" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square&logo=graphql&logoColor=E10098" alt="LangGraph" />
+<img src="https://img.shields.io/badge/FAISS-111111?style=flat-square&logo=meta&logoColor=0866FF" alt="FAISS" />
+
+**Tools**  
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+
+</div>
 
 ---
 
+<div align="center">
+
+### GITHUB METRICS
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbhardwaj19&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhardwaj19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<br />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=aryanbhardwaj19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub Stats" />
+
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanbhardwaj19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
->>>>>>> 2fc86c54cd4ec16ee40bd473533dce5820d9e21d
+
+### FEATURED PROJECTS
+
+<a href="https://github.com/aryanbhardwaj19/FinRisk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=FinRisk&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FinRisk repo card" />
+</a>
+<a href="https://github.com/aryanbhardwaj19/TaskFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=TaskFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TaskFlow repo card" />
+</a>
+<a href="https://github.com/aryanbhardwaj19/FOODIES-FOODY">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=FOODIES-FOODY&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FOODIES-FOODY repo card" />
+</a>
+
+<p>
+FOODIES-FOODY: commission-free food delivery platform with Spring Boot, React, MongoDB, and AWS S3.  
+TaskFlow: collaborative task manager with JWT auth, drag-and-drop workflows, and REST APIs.  
+FinRisk: multi-agent RAG system for financial risk assessment using LangChain, LangGraph, and FAISS.
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### ACHIEVEMENTS
+
+<p>
+  450+ LeetCode problems solved  
+  Top 25 at wHACKiest 2024  
+  Top 16 at 22 Yards of Code
+</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryanbhardwaj19&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=12" alt="GitHub trophies" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbhardwaj19&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF" alt="Contribution activity graph" />
+</div>
+
+---
+
+<div align="center">
+  <sub>crafted with intent · always in beta</sub>
 </div>
