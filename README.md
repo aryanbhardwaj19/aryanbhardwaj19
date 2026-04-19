@@ -35,7 +35,7 @@ CNN-based wake word and emotion detection, MFCC/GeMAPS acoustic features, low-la
 
 ### DSA // COMPETITIVE PROGRAMMING
 
-<img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode solved" />
+<img src="https://img.shields.io/badge/LeetCode-450%2B%20DSA-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode DSA" />
 <img src="https://img.shields.io/badge/LeetCode-350%2B%20DSA%20Problems-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="DSA problems" />
 <img src="https://img.shields.io/badge/LeetCode%20Weekly%20482-Rank%203936%2F30706-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode contest rank" />
 
@@ -102,13 +102,13 @@ and I regularly practice contest-style problem solving for speed and pattern rec
 ### FEATURED PROJECTS
 
 <a href="https://github.com/aryanbhardwaj19/financial_risk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=FinRisk&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FinRisk repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=financial_risk&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FinRisk repo card" />
 </a>
 <a href="https://github.com/aryanbhardwaj19/task-flow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=TaskFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TaskFlow repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=task-flow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TaskFlow repo card" />
 </a>
 <a href="https://github.com/aryanbhardwaj19/FoodiesForFoody">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=FOODIES-FOODY&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FOODIES-FOODY repo card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanbhardwaj19&repo=FoodiesForFoody&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FOODIES-FOODY repo card" />
 </a>
 
 <p>
@@ -132,7 +132,13 @@ FinRisk: Multi-agent RAG system for financial risk assessment using LangChain, L
   Top 16/200 at 22 Yards of Code, CodeRIT Event
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryanbhardwaj19&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=12" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=aryanbhardwaj19&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=12" alt="GitHub trophies" />
+
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode 450+" />
+  <img src="https://img.shields.io/badge/wHACKiest%202024-Top%2025%2F3000-111111?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="wHACKiest 2024" />
+  <img src="https://img.shields.io/badge/22%20Yards%20of%20Code-Top%2016%2F200-111111?style=flat-square&logo=codeforces&logoColor=1F8ACB" alt="22 Yards of Code" />
+</p>
 
 </div>
 
