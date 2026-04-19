@@ -13,7 +13,7 @@
   <a href="https://github.com/aryanbhardwaj19"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/aryanbh19/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/aryanbh_19"><img src="https://img.shields.io/badge/Codeforces-0A0A0A?style=flat-square&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" /></a>
-  <a href="https://takeuforward.org/plus/"><img src="https://img.shields.io/badge/TUF+-0A0A0A?style=flat-square&logo=bookstack&logoColor=22D3EE" alt="TUF+" /></a>
+  <a href="https://takeuforward.org/plus/theprogrammer_19"><img src="https://img.shields.io/badge/TUF+-0A0A0A?style=flat-square&logo=bookstack&logoColor=22D3EE" alt="TUF+" /></a>
 </p>
 
 </div>
@@ -35,8 +35,8 @@ CNN-based wake word and emotion detection, MFCC/GeMAPS acoustic features, low-la
 
 ### DSA // COMPETITIVE PROGRAMMING
 
-<img src="https://img.shields.io/badge/LeetCode-450%2B%20DSA-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode DSA" />
-<img src="https://img.shields.io/badge/LeetCode-350%2B%20DSA%20Problems-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="DSA problems" />
+<img src="https://img.shields.io/badge/LeetCode-450%2B%20DSA-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="DSA Problems" />
+<img src="https://img.shields.io/badge/LeetCode-350%2B%20DSA%20Problems-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="Leetcode problems" />
 <img src="https://img.shields.io/badge/LeetCode%20Weekly%20482-Rank%203936%2F30706-111111?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode contest rank" />
 
 <p>
